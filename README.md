@@ -1,4 +1,6 @@
-#MOBILE APP SIGNUP FLOW
-https://www.figma.com/design/y9jmQ4aprK4jjTzSs8AyWE/mobile-signup-flow-(Best)?node-id=0-1&t=EN3R8ZMqxHz91heJ-1
+1st PROJECT
 
-#PROTOTYPE https://www.figma.com/proto/SVitRz5vWNHe8ABevxerN9/login?node-id=3-2&p=f&t=eUfcWD9ebdo99tT3-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2
+#MOBILE APP SIGNUP FLOW
+https://www.figma.com/design/y9jmQ4aprK4jjTzSs8AyWE/mobile-signup-flow-(Best)?t=2fejggvBf4XNJ26S-1
+
+#PROTOTYPE https://www.figma.com/proto/y9jmQ4aprK4jjTzSs8AyWE/mobile-signup-flow-(Best)?t=bMcmKS4sJjwupbSG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=8-344&starting-point-node-id=3%3A2
